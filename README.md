@@ -1,6 +1,13 @@
 # Practice APIs
 
-Clone repository and npm install
+1. Clone repo
+`git clone https://github.com/griffin-scott/practice-apis.git`
+
+2. Install packages
+`npm i`
+
+3. Start Express Server
+`npm start`
 
 ## Routes
 
